@@ -1,0 +1,4 @@
+Olá ! esse é um projeto de resumos de matérias de ADS (analise de desenvolvimento de sistemas), para ajudar quem está entrando no curso ou na area, e não se familiariza com a linguagem mais técnica.
+A real intenção dos resumos é facilitar de maneira objetiva e simples o conteúdo, sem perder a essência dela.
+São resumos que facilitam de alguma maneira o entendimento dos meus colegas de classe, resolvi disponibilizar de maneira que ajude de alguma forma a comunidade, principalmente para quem está entrando e é totalmente leigo (como eu também hehe).
+Espero de todo coração ajudar quem está precisando, e já peço desculpas por alguma incoerencia, vale a pena ressaltar que toda ajuda é bem-vinda <3 .
